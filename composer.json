@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.4",
+        "google/recaptcha": "^1.2",
+        "firebase/php-jwt": "^5.2",
+        "google/apiclient": "^2.7",
+        "facebook/graph-sdk": "^5.7"
+    }
+}
